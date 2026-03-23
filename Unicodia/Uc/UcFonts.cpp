@@ -209,7 +209,8 @@ constinit const uc::Font uc::fontInfo[] = {
       { "NewGardiner.ttf", Ffg::CELL_BIGGER | Ffg::FALL_TO_NEXT, 110_pc },      // …1
     { "NotoSansElbasan-Regular.ttf" },                                          // Elbasan
     { FNAME_NOTOSYM1, Ffg::FALL_TO_NEXT | Ffg::GRAPHIC_SAMPLE, 15_top, 115_pc },// Enclosed alnum
-      { FNAME_NOTOSYM2, Ffg::GRAPHIC_SAMPLE, 30_bot, 130_pc },                  // …1
+      { FNAME_NOTOSYM2, Ffg::FALL_TO_NEXT | Ffg::GRAPHIC_SAMPLE, 30_bot, 130_pc }, // …1
+      { FAM_FUNKY },                                                            // …2
     { "NotoSerifEthiopic-Regular.ttf", Ffg::DESC_BIGGER },                      // Ethiopic
     { "NotoSerifEthiopic-Regular.ttf" },                                        // Ethiopic smaller
     { "Sylfaen", Ffg::FALL_TO_NEXT },                                           // Georgian Nuskhuri

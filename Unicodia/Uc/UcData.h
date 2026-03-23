@@ -296,8 +296,9 @@ namespace uc {
         EGYPTIAN,
           Z_EGY_1,
         ELBASAN,
-        ENCLOSED_ALNUM, // Korean
-          Z_EAN_1,      // Backed up by Symbol2
+        ENCLOSED_ALNUM, // Symbol, Symbol2, Funky
+          Z_EAN_1,
+          Z_EAN_2,
         ETHIOPIC,
         ETHIOPIC_SMALLER,
         GEORGIAN_NUSKHURI,  // Special bhv for Nuskhuri W7/10. First Sylfaen that covers all Nuskhuri on W10.
