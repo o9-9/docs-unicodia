@@ -25,9 +25,9 @@ Unicodia does not collect data at all, but uses GitHub API for updating.
 * Download Lang-src/en.uorig from this repo.
   * If you are able to use Git, better use it. We’ll be able to work together on one translation.
 * Put Unicodia to writeable location.
-* Create language directory, edit locale.xml for that language.
+* Create a language directory, edit locale.xml for that language.
 * Download [UTranslator](https://github.com/Mercury13/utranslator). New → Translation of *.uorig.
-  * If you don’t know English, use other \*.utran file as reference translation.
+  * If you don’t know English, use another \*.utran file as a reference translation.
 * After saving, UTranslator created lang.xml. Put it to language directory. Or use a symlinking tool to tie these files forever and avoid handwork.
 * Press F12 in Unicodia to reload translation without reopening the entire program.
   * Warning, it reloads strings only; all locales are loaded on startup.
