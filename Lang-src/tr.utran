@@ -3953,10 +3953,19 @@
       <p />
       <p>Horizontal mirroring mark may be implemented either in an engine or in a font.</p>
       <p />
-      <p>Two non-break hieroglyphic spaces and four fills for completely destroyed surfaces are simple characters.</p>
+      <p>Two non-break hieroglyphic spaces and four fills for completely destroyed surfaces are simple [[pt:spacing|spacing]] characters.</p>
       <p />
       <p>Fifteen hatches for heavily damaged hieroglyphs should ideally adapt to hieroglyphs’ actual width and height.</p>
      </orig>
+     <known-orig>
+      <p>Sixteen characters provide complete formatting of Egyptian hieroglyphs. They need a special layout engine.</p>
+      <p />
+      <p>Horizontal mirroring mark may be implemented either in an engine or in a font.</p>
+      <p />
+      <p>Two non-break hieroglyphic spaces and four fills for completely destroyed surfaces are simple characters.</p>
+      <p />
+      <p>Fifteen hatches for heavily damaged hieroglyphs should ideally adapt to hieroglyphs’ actual width and height.</p>
+     </known-orig>
      <transl>
       <p>On altı karakter, Mısır hiyerogliflerinin eksiksiz biçimlendirmesini sağlar. Özel bir düzen motoruna ihtiyaç duyarlar.</p>
       <p />
@@ -10110,7 +10119,8 @@
      <transl>Sembol/matematiksel</transl>
     </text>
     <text id="Text">
-     <orig>Initially several systems were used for computer mathematics, the most well-known of them are TᴇX (pronounced “tech”) and MathType (aka ''Microsoft Equation''). Unicode gives hope that computer mathematics will receive some standard{{-}}and limited ability to write equations in general-purpose systems like Internet forums.</orig>
+     <orig>Initially, several systems were used for computer mathematics; the most well-known of them are TᴇX (pronounced “tech”) and MathType (aka ''Microsoft Equation''). Unicode offers a hope that computer mathematics will receive some standard{{-}}and a limited ability to write equations in general-purpose systems such as Internet forums.</orig>
+     <known-orig>Initially several systems were used for computer mathematics, the most well-known of them are TᴇX (pronounced “tech”) and MathType (aka ''Microsoft Equation''). Unicode gives hope that computer mathematics will receive some standard{{-}}and limited ability to write equations in general-purpose systems like Internet forums.</known-orig>
      <transl>Başlangıçta bilgisayar matematiği için birkaç sistem kullanıldı, bunlardan en bilinenleri TᴇX (“tek” olarak telaffuz edilir) ve MathType (“Microsoft Equation” olarak da bilinir). Unicode, bilgisayar matematiğine bir standart{{-}} ve internet forumları gibi genel amaçlı sistemlerde denklem yazmak için sınırlı bir yetenek kazandırma umudu vermektedir.</transl>
     </text>
    </group>

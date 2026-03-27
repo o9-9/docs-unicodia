@@ -10083,7 +10083,7 @@
      <transl>Символ/математический</transl>
     </text>
     <text id="Text">
-     <orig>Initially several systems were used for computer mathematics, the most well-known of them are TᴇX (pronounced “tech”) and MathType (aka ''Microsoft Equation''). Unicode gives hope that computer mathematics will receive some standard{{-}}and limited ability to write equations in general-purpose systems like Internet forums.</orig>
+     <orig>Initially, several systems were used for computer mathematics; the most well-known of them are TᴇX (pronounced “tech”) and MathType (aka ''Microsoft Equation''). Unicode offers a hope that computer mathematics will receive some standard{{-}}and a limited ability to write equations in general-purpose systems such as Internet forums.</orig>
      <transl>Изначально для математики использовались несколько разных систем, наиболее известные из них{{-}}TᴇX (читается «тех») и MathType (он же ''Microsoft Equation''). Юникод даёт надежду, что в компьютерной математике появится какая-то стандартизация{{-}}а также ограниченная возможность писать формулы в системах общего назначения вроде интернет-форумов.</transl>
     </text>
    </group>
